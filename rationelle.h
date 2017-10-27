@@ -7,4 +7,5 @@
 
 int comparaison(int a, int b);
 int simplification(int *a, int *b);
-int pgcd (int a, int b); //ca fait mal à la bite
+int pgcd (int a, int b); //ca fait mal à la 
+
